@@ -10,3 +10,6 @@
 
 - Java JDK 17
 - Maven
+
+![screen capture](screen_capture.JPG)
+
